@@ -1,0 +1,32 @@
+body {
+    background-color: lightpink;
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: lightgreen;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: lightblue;
+    color: white;
+}
+
+article {
+    padding: 40px;
+    min-height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : lightblue;
+    color: white;
+}
